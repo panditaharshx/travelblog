@@ -61,11 +61,12 @@ For details now how everything has been implemented, refer the source code.
 * Open the project through the `.zip` file provided and extract the files. 
   > Open `index.html` in the browser of your choice.
 
+![image](https://user-images.githubusercontent.com/77695817/129084976-1fad297d-5fa1-4426-812f-54296ed82de2.png)
+![image](https://user-images.githubusercontent.com/77695817/129085008-a7da1101-7735-4b41-a4a1-c1b3b5af8e88.png)
+![image](https://user-images.githubusercontent.com/77695817/129085055-3ef92fb3-4d46-4187-83a2-5ee6d0ff4d68.png)
+![image](https://user-images.githubusercontent.com/77695817/129085147-5f7f9930-ae1f-4132-afed-2e061d8375b1.png)
 
-![image](https://user-images.githubusercontent.com/55940353/129017677-8348872d-d4ee-4961-85b5-9052f7a68b6e.png)
-![image](https://user-images.githubusercontent.com/55940353/129017737-697d8aff-3e7a-4577-96a7-45047b500024.png)
-![image](https://user-images.githubusercontent.com/55940353/129017789-61bc0bb8-0b1e-4b85-9c0c-425121fc448c.png)
-![image](https://user-images.githubusercontent.com/55940353/129017843-5eb7823a-2cba-4ce8-a7ad-1a5fc8df5ed3.png)
-![image](https://user-images.githubusercontent.com/55940353/129017906-8260a3d9-81a3-4d64-8adc-dd64a52c58f6.png)
+
+
 
 
